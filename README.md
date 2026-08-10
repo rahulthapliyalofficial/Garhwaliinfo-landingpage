@@ -7,7 +7,7 @@ A premium modern landing page designed to showcase the rich culture, language, h
 ## 🚀 Live Demo & Repository
 
 - **GitHub Repository:** [rahulthapliyalofficial/Garhwaliinfo-landingpage](https://github.com/rahulthapliyalofficial/Garhwaliinfo-landingpage)
-- **Live Demo:** *(Add your Vercel URL here after deployment)*
+- **Live Demo:** https://garhwaliinfo-landingpage-q9tw.vercel.app/
 
 ---
 
